@@ -1,0 +1,5 @@
+function double (num)
+{
+return x * 3l
+}
+var x=2;
